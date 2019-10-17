@@ -1,0 +1,4 @@
+.stack-work/
+OrderingSongs.cabal
+*~
+stack.yaml.lock

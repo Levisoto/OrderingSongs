@@ -1,0 +1,100 @@
+﻿[ 
+   { 
+      "year":"1998",
+      "country":"Finland",
+      "region":"Independent",
+      "artist":"Edea",
+      "song":"Aava"
+   },
+   { 
+      "year":"1998",
+      "country":"Norway",
+      "region":"Scandinavia",
+      "artist":"Lars Fredriksen",
+      "song":"Alltid sommer"
+   },
+   { 
+      "year":"1998",
+      "country":"Estonia",
+      "region":"Former Socialist Bloc",
+      "artist":"Koit Toome",
+      "song":"Mere lapsed"
+   },
+   { 
+      "year":"1998",
+      "country":"Turkey",
+      "region":"Independent",
+      "artist":"Tzmen",
+      "song":"Unutamazsn"
+   },
+   { 
+      "year":"1998",
+      "country":"Macedonia",
+      "region":"Former Yugoslavia",
+      "artist":"Vlado Janevski",
+      "song":"Ne zori"
+   },
+   { 
+      "year":"2011",
+      "country":"Austria",
+      "region":"Western Europe",
+      "artist":"Nadine Beiler",
+      "song":"The Secret Is Love"
+   },
+   { 
+      "year":"2011",
+      "country":"Azerbaijan",
+      "region":"Former Socialist Bloc",
+      "artist":"Ell & Nikki",
+      "song":"Running Scared"
+   },
+   { 
+      "year":"2011",
+      "country":"Bosnia and Herzegovina",
+      "region":"Former Yugoslavia",
+      "artist":"Dino Merlin",
+      "song":"Love In Rewind"
+   },
+   { 
+      "year":"2011",
+      "country":"Denmark",
+      "region":"Scandinavia",
+      "artist":"A Friend In London",
+      "song":"New Tomorrow"
+   },
+   { 
+      "year":"2011",
+      "country":"Estonia",
+      "region":"Former Socialist Bloc",
+      "artist":"Getter Jaani",
+      "song":"Rockefeller Street"
+   },
+   { 
+      "year":"2011",
+      "country":"Finland",
+      "region":"Scandinavia",
+      "artist":"Paradise Oskar",
+      "song":"Da Da Dam"
+   },
+   { 
+      "year":"2011",
+      "country":"France",
+      "region":"Western Europe",
+      "artist":"Amaury Vorobjov",
+      "song":"Get You"
+   },
+   { 
+      "year":"2011",
+      "country":"Georgia",
+      "region":"Former Socialist Bloc",
+      "artist":"Eldrine",
+      "song":"One More Day"
+   },
+   { 
+      "year":"2011",
+      "country":"Germany",
+      "region":"Western Europe",
+      "artist":"Lena",
+      "song":"Taken By A Stranger"
+   }
+]
